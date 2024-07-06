@@ -1,0 +1,53 @@
+{
+    "Account": "x1105915229@163.com",
+    "AssertCacheDir": "E:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CanPublishResourceComponent": true,
+    "CodeEnable": false,
+    "CreateNew": true,
+    "CreateVersion": "2.12.0.699905",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "E:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "自定义附魔",
+    "EditType": 2,
+    "EditVersion": "2.12.0.699905",
+    "EditorResourcePackPath": "E:\\Program Files (x86)\\Netease\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 0,
+    "Id": "f0facc0105c74d119e3fed63ed76d8bd",
+    "IsMap": false,
+    "NewEditCount": 2,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "ResourceIds": [
+        "4663898931286461856"
+    ],
+    "SaveBackAddOnPath": "E:\\MCStudioDownload\\work\\x1105915229@163.com\\Cpp\\AddOn\\f0facc0105c74d119e3fed63ed76d8bd",
+    "SaveBackMapPath": null,
+    "Seed": "",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "import",
+    "StudioPort": 11450,
+    "StudioTempPath": "E:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "50065",
+    "UserName": "EpicNose",
+    "WorldType": 1
+}

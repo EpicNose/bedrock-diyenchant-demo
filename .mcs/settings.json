@@ -1,0 +1,13 @@
+{
+    "Arena.Component.Namespace": "vqcev",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "EnchantDemo_resource\\ui",
+        "EnchantDemo_behavior\\Presets",
+        "EnchantDemo_behavior\\Parts",
+        "EnchantDemo_behavior\\BoxData",
+        "EnchantDemo_resource\\effects",
+        "EnchantDemo_resource\\models",
+        "EnchantDemo_resource\\textures"
+    ]
+}

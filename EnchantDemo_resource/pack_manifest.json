@@ -1,0 +1,25 @@
+{
+    "format_version": 1, 
+    "header": {
+        "description": "By @MCQA", 
+        "name": "MCTestMod", 
+        "uuid": "421a1b78-29ce-4cbb-99f9-0703049e46c4", 
+        "version": [
+            0, 
+            0, 
+            1
+        ]
+    }, 
+    "modules": [
+        {
+            "description": "By @MCQA", 
+            "type": "resources", 
+            "uuid": "aa2ad341-8f13-4746-8ca2-83743e811240", 
+            "version": [
+                0, 
+                0, 
+                1
+            ]
+        }
+    ]
+}

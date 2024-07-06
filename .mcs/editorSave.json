@@ -1,0 +1,76 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "16_economy_trades/librarian_trades": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "16_economy_trades/weapon_smith_trades": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "1_minecraft:chicken": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "1_minecraft:cow": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "1_minecraft:horse": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "1_minecraft:sheep": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "2048_demoenchant:customenchant1": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "2048_demoenchant:customenchant2": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "2048_demoenchant:customenchant3": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "2048_demoenchant:customenchant4": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "2_enchantdemo:pickaxe_enchant": {
+                "createTime": 1720276985.1753244,
+                "modifyTime": 1720276985.1753244
+            },
+            "32_enchant_equipment": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "32_enchant_randomly": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "32_enchant_specific": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            },
+            "32_enchant_with_levels": {
+                "createTime": 1720276985.1763215,
+                "modifyTime": 1720276985.1763215
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    }
+}
