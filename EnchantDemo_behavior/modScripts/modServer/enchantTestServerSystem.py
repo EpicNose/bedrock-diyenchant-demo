@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 
 # 获取引擎服务端API的模块
-import server.extraServerApi as serverApi
+import mod.server.extraServerApi as serverApi
+
+from customEnchant5 import CustomEnchant5
 # 获取引擎服务端System的基类，System都要继承于ServerSystem来调用相关函数
 from customEnchant1 import CustomEnchant1
 from customEnchant2 import CustomEnchant2
@@ -15,7 +17,8 @@ ENCHANT_EFFECT_MAP = {
     "demoenchant:customenchant1": CustomEnchant1, #疾行
     "demoenchant:customenchant2": CustomEnchant2, #雷鸣四方
     "demoenchant:customenchant3": CustomEnchant3, #战利品
-    "demoenchant:customenchant4": CustomEnchant4  #沉重
+    "demoenchant:customenchant4": CustomEnchant4,  #沉重
+    "demoenchant:customenchant5": CustomEnchant5  #血性
 }
 
 #穿戴生效附魔列表

@@ -2,9 +2,9 @@
 # 上面这行是让这个文件按utf-8进行编码，这样就可以在注释中写中文了
 
 # 这行是import到MOD的绑定类Mod，用于绑定类和函数
-from common.mod import Mod
+from mod.common.mod import Mod
 # 这行import到的是引擎服务端的API模块
-import server.extraServerApi as serverApi
+import mod.server.extraServerApi as serverApi
 from modCommon import modConfig
 # 用Mod.Binding来绑定MOD的类，引擎从而能够识别这个类是MOD的入口类
 @Mod.Binding(name = "{}".format(modConfig.ModName), version = "0.0.1")

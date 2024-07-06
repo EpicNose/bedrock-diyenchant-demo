@@ -22,15 +22,15 @@
     "EditMaterialPaths": [
 
     ],
-    "EditName": "自定义附魔",
+    "EditName": "bedrock-diyenchant-d",
     "EditType": 2,
     "EditVersion": "2.12.0.699905",
     "EditorResourcePackPath": "E:\\Program Files (x86)\\Netease\\MCStudio\\data\\inner_res",
     "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
     "GameType": 0,
-    "Id": "f0facc0105c74d119e3fed63ed76d8bd",
+    "Id": "3728c87978cc4b248ffc9169e4b0a6be",
     "IsMap": false,
-    "NewEditCount": 2,
+    "NewEditCount": 5,
     "OldComponents": [
 
     ],
@@ -38,14 +38,14 @@
     "ResourceIds": [
         "4663898931286461856"
     ],
-    "SaveBackAddOnPath": "E:\\MCStudioDownload\\work\\x1105915229@163.com\\Cpp\\AddOn\\f0facc0105c74d119e3fed63ed76d8bd",
+    "SaveBackAddOnPath": "E:\\PythonCode\\bedrock-diyenchant-demo",
     "SaveBackMapPath": null,
     "Seed": "",
     "ServerName": "EXPR",
     "ShowGpuDriverTips": false,
     "ShowGuide": false,
     "Source": "import",
-    "StudioPort": 11450,
+    "StudioPort": 12876,
     "StudioTempPath": "E:\\MCStudioDownload\\temp\\editorTemp",
     "UserId": "50065",
     "UserName": "EpicNose",
